@@ -1,12 +1,18 @@
 ## Art Design
 
+<img src="./src/assets/img/common/logo.webp" style="width: 100px; display: block; margin: 0 auto;" />
+
+A great Vue3 backend management solution that focuses on user experience and visual design using Vite + TypeScript + Element Plus.
+
+一款出色的专注于用户体验和视觉设计的使用 Vite + TypeScript + Element Plus 的 Vue3 后台管理解决方案
+
 ## 01 About Art Design 关于本项目
 
-This project, [Art Design](https://github.com/Barry-Flynn/art-design), is an open-source backend management solution based on Vue3, TypeScript, Vite, and Element Plus. It is a lightweight version of [Art Design Pro](https://github.com/Daymychen/art-design-pro) and will be continuously maintained by [Barry-Flynn](https://github.com/Daymychen).
+This project, [Art Design](https://github.com/Barry-Flynn/art-design), is an open-source backend management solution based on Vue3, TypeScript, Vite, and Element Plus. It is a lightweight version of [Art Design Pro](https://github.com/Daymychen/art-design-pro) and will be continuously maintained by [@Barry-Flynn](https://github.com/Daymychen). ([ChangeLog](./CHANGELOG.md))
 
 Thank you [@SuperManTT](https://github.com/Daymychen) for bringing Art Design Pro, such a beautiful and high-quality project, to the open source community. The mission of `Art Design` is to follow the updates of `Art Design Pro`, remove complex example pages and unnecessary features and components, and welcome front-end beginners or developers who want to build backend management projects from the initial state with the simplest code.
 
-本项目 [Art Design](https://github.com/Barry-Flynn/art-design) 是一个基于 Vue3、TypeScript、Vite、Element-Plus 的开源后台管理解决方案，是 [Art Design Pro](https://github.com/Daymychen/art-design-pro) 的精简版（即轻量版），将由 [百里飞洋](https://github.com/Daymychen) 持续维护。
+本项目 [Art Design](https://github.com/Barry-Flynn/art-design) 是一个基于 Vue3、TypeScript、Vite、Element-Plus 的开源后台管理解决方案，是 [Art Design Pro](https://github.com/Daymychen/art-design-pro) 的精简版（即轻量版、简化版），将由 [@百里飞洋](https://github.com/Daymychen) 持续维护。（[更新日志](./CHANGELOG.md)）
 
 感谢 [@SuperManTT](https://github.com/Daymychen) 为开源社区带来 Art Design Pro 这个如此精美的高质量项目。`Art Design` 的使命是跟随 `Art Design Pro` 的更新，去除复杂的示例页面和非必要的功能和组件，以最精简的代码迎接前端新手或者想要从初始状态搭建后台管理项目的开发者。
 
@@ -87,16 +93,18 @@ pnpm build
 
 ## 05 Technical Support 技术支持
 
-|         | Art Design                                               | Art Design Pro                                          |
-| ------- | -------------------------------------------------------- | ------------------------------------------------------- |
-| QQ群    | [1045381331](https://qm.qq.com/q/Og7iSRAuIK)（点击进群） | [821834289](https://qm.qq.com/q/f3g18Ix69y)（点击进群） |
-| Discord | https://discord.gg/57wWM7KD                              |                                                         |
+|  | Art Design | Art Design Pro |
+| --- | --- | --- |
+| QQ群 | [1045381331](https://qm.qq.com/q/Og7iSRAuIK)（点击进群） | [821834289](https://qm.qq.com/q/f3g18Ix69y)（点击进群） |
+| Discord | https://discord.gg/57wWM7KD |  |
+
+![Star History Chart](https://api.star-history.com/svg?repos=Barry-Flynn/art-design,Daymychen/art-design-pro&type=Date)
 
 ## 06 Donation 捐赠开发者
 
-If this project has been helpful to you, donations are welcome! Your support will be used to purchase tools like ChatGPT, Cursor, etc., to improve development efficiency and make the project even better. Thank you for your encouragement and support!
+If this project has been helpful to you, donations are welcome! Your support will be used to purchase tools like ChatGPT, Copilot, Cursor, etc., to improve development efficiency and make the project even better. Thank you for your encouragement and support!
 
-如果这个项目对你有所帮助，欢迎捐赠支持！你的支持将用于购买 ChatGPT、Cursor 等工具，以提升开发效率，让项目变得更好。感谢你的鼓励与支持！
+如果这个项目对你有所帮助，欢迎捐赠支持！你的支持将用于购买 ChatGPT、Copilot、Cursor 等工具，以提升开发效率，让项目变得更好。感谢你的鼓励与支持！
 
 | AliPay                               | WeChat                             |
 | ------------------------------------ | ---------------------------------- |
@@ -104,4 +112,4 @@ If this project has been helpful to you, donations are welcome! Your support wil
 
 You are also welcome to go and reward the authors of [Art Design Pro](https://github.com/Daymychen/art-design-pro)!
 
-也欢迎你前往打赏  [Art Design Pro](https://github.com/Daymychen/art-design-pro) 的作者！
+也欢迎你前往打赏 [Art Design Pro](https://github.com/Daymychen/art-design-pro) 的作者！
