@@ -23,9 +23,6 @@
           </div>
         </div>
 
-        <!-- 快速入口 -->
-        <ArtFastEnter v-if="width >= 1200" />
-
         <!-- 面包屑 -->
         <ArtBreadcrumb
           v-if="(showCrumbs && isLeftMenu) || (showCrumbs && isDualMenu)"
@@ -69,13 +66,6 @@
           <div class="btn notice-button">
             <i class="iconfont-sys notice-btn">&#xe6c2;</i>
             <span class="count notice-btn"></span>
-          </div>
-        </div>
-        <!-- 聊天 -->
-        <div class="btn-box chat-btn" @click="openChat">
-          <div class="btn chat-button">
-            <i class="iconfont-sys">&#xe89a;</i>
-            <span class="dot"></span>
           </div>
         </div>
         <!-- 语言 -->
@@ -138,12 +128,12 @@
             popper-style="border: 1px solid var(--art-border-dashed-color); border-radius: calc(var(--custom-radius) / 2 + 4px); padding: 5px 16px; 5px 16px;"
           >
             <template #reference>
-              <img class="cover" src="@imgs/user/avatar.webp" />
+              <img class="cover" src="@imgs/user/avatar.png" />
             </template>
             <template #default>
               <div class="user-menu-box">
                 <div class="user-head">
-                  <img class="cover" src="@imgs/user/avatar.webp" style="float: left" />
+                  <img class="cover" src="@imgs/user/avatar.png" style="float: left" />
                   <div class="user-wrap">
                     <span class="name">{{ userInfo.userName }}</span>
                     <span class="email">art.design@gmail.com</span>
@@ -356,10 +346,6 @@
 
   const visibleNotice = () => {
     showNotice.value = !showNotice.value
-  }
-
-  const openChat = () => {
-    mittBus.emit('openChat')
   }
 
   const lockScreen = () => {
