@@ -186,35 +186,6 @@ export const asyncRoutes: AppRouteRecord[] = [
     ]
   },
   {
-    path: '/result',
-    name: 'Result',
-    component: RoutesAlias.Home,
-    meta: {
-      title: 'menus.result.title',
-      icon: '&#xe715;'
-    },
-    children: [
-      {
-        path: 'success',
-        name: 'ResultSuccess',
-        component: RoutesAlias.Success,
-        meta: {
-          title: 'menus.result.success',
-          keepAlive: true
-        }
-      },
-      {
-        path: 'fail',
-        name: 'ResultFail',
-        component: RoutesAlias.Fail,
-        meta: {
-          title: 'menus.result.fail',
-          keepAlive: true
-        }
-      }
-    ]
-  },
-  {
     path: '/exception',
     name: 'Exception',
     component: RoutesAlias.Home,

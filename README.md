@@ -6,6 +6,17 @@ A great Vue3 backend management solution that focuses on user experience and vis
 
 一款出色的专注于用户体验和视觉设计的使用 Vite + TypeScript + Element Plus 的 Vue3 后台管理解决方案
 
+```bash
+# Clone repository by SSH
+git clone git@github.com:Barry-Flynn/art-design.git
+
+# Install dependencies
+pnpm install
+
+# Start local development environment
+pnpm dev
+```
+
 ## 01 About Art Design 关于本项目
 
 This project, [Art Design](https://github.com/Barry-Flynn/art-design), is an open-source backend management solution based on Vue3, TypeScript, Vite, and Element Plus. It is a lightweight version of [Art Design Pro](https://github.com/Daymychen/art-design-pro) and will be continuously maintained by [@Barry-Flynn](https://github.com/Daymychen). ([ChangeLog](./CHANGELOG.md))
@@ -79,6 +90,12 @@ Supports modern mainstream browsers such as Chrome, Safari, Firefox, etc.
 ## 04 Install and Run 安装和运行
 
 ```bash
+# Clone repository by SSH
+git clone git@github.com:Barry-Flynn/art-design.git
+
+# Or clone repository by HTTPS
+# git clone https://github.com/Barry-Flynn/art-design.git
+
 # Install dependencies
 pnpm install
 

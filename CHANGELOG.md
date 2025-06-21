@@ -6,7 +6,8 @@ The mission of [Art Design](https://github.com/Barry-Flynn/art-design) is to fol
 
 | Art Design 更新时间 | Art Design 更新内容 | Commits | 更新时 Art Design Pro 版本号 |
 | --- | --- | --- | --- |
-| 2025-06-21 | 1. 删除 `src\views\template` 模板中心目录，并移除相关路由配置和翻译信息； |  | v2.4.2.4 |
+| 2025-06-21 | 1. 删除 `src\views\result` 结果页面目录，并移除相关路由配置和翻译信息； |  | v2.4.2.4 |
+| 2025-06-21 | 1. 删除 `src\views\template` 模板中心目录，并移除相关路由配置和翻译信息； | [e4bf5bd](https://github.com/Barry-Flynn/art-design/commit/e4bf5bd44616be5ec8000792fb502ccdc6c2c2f4) | v2.4.2.4 |
 | 2025-06-21 | 1. 删除 `src\views\system\nested` 嵌套菜单目录，并移除相关路由配置和翻译信息； | [61df9b8](https://github.com/Barry-Flynn/art-design/commit/61df9b86edd0bf7b4b4e966e48bcb1b500301da9) | v2.4.2.4 |
 | 2025-06-21 | 1. 删除 `src\views\safeguard` 运维管理目录，并移除相关路由配置和翻译信息； | [b4d8df0](https://github.com/Barry-Flynn/art-design/commit/b4d8df0d6a8c5b1f0413d384fb05087f27cefa68) | v2.4.2.4 |
 | 2025-06-21 | 1. 修改 ChangeLog 更新日志组件；<br />2. 删除 `src\views\widgets` 组件中心目录，并移除相关路由配置和翻译信息； | [7b9d8eb](https://github.com/Barry-Flynn/art-design/commit/7b9d8eb5116115db29baf84d25c0be8273972470) | v2.4.2.4 |

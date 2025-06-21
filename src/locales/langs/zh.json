@@ -319,11 +319,6 @@
       "comment": "留言管理",
       "articlePublish": "文章发布"
     },
-    "result": {
-      "title": "结果页面",
-      "success": "成功页",
-      "fail": "失败页"
-    },
     "exception": {
       "title": "异常页面",
       "forbidden": "403",
