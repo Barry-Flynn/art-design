@@ -6,7 +6,8 @@ The mission of [Art Design](https://github.com/Barry-Flynn/art-design) is to fol
 
 | Art Design 更新时间 | Art Design 更新内容 | Commits | 更新时 Art Design Pro 版本号 |
 | --- | --- | --- | --- |
-| 2025-06-21 | 1. 修改 ChangeLog 更新日志组件；<br />2. 删除 `src\views\widgets` 组件中心目录，并移除相关路由配置和翻译信息； |  | v2.4.2.4 |
+| 2025-06-21 | 1. 删除 `src\views\safeguard` 运维管理目录，并移除相关路由配置和翻译信息； |  | v2.4.2.4 |
+| 2025-06-21 | 1. 修改 ChangeLog 更新日志组件；<br />2. 删除 `src\views\widgets` 组件中心目录，并移除相关路由配置和翻译信息； | [7b9d8eb](https://github.com/Barry-Flynn/art-design/commit/7b9d8eb5116115db29baf84d25c0be8273972470) | v2.4.2.4 |
 | 2025-06-21 | 1. 删除 `src\views\widgets` 组件中心目录，并移除相关路由配置和翻译信息； | [fbf27f3](https://github.com/Barry-Flynn/art-design/commit/fbf27f360b0785ce3eae17d5aab0c5fef62b808c) | v2.4.2.4 |
 | 2025-06-20 | 1. 移除 ArtHeaderBar 顶栏组件中的 ArtFastEnter 快速入口组件；<br />2. 移除 ArtHeaderBar 顶栏组件中的聊天按钮和点击事件；<br />3. 将用户头像从 `avatar.webp` 更换为 `avatar.png` 使其更具有商务风格； | [a5f2389](https://github.com/Barry-Flynn/art-design/commit/a5f2389737738a62adf4e22f556c65b2e8a0b8eb) | v2.4.2.4 |
 | 2025-06-20 | 1. 在 `README.md` 中添加 Star History Chart 统计图；<br />2. 添加 `CHANGELOG.md` 仓库更新日志；<br />3. 修改 `src\utils\sys\console.ts` 中的控制台打印信息； | [598c4e0](https://github.com/Barry-Flynn/art-design/commit/598c4e0ff3207d5ed8ab6a711e034b2422abe521) | v2.4.2.4 |

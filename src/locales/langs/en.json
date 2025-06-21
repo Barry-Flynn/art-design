@@ -363,10 +363,6 @@
       "menu32": "Menu 3-2",
       "menu321": "Menu 3-2-1"
     },
-    "safeguard": {
-      "title": "Safeguard",
-      "server": "Server"
-    },
     "plan": {
       "title": "Version Plan",
       "log": "Change Log"

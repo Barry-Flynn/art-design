@@ -413,28 +413,6 @@ export const asyncRoutes: AppRouteRecord[] = [
       }
     ]
   },
-
-  {
-    path: '/safeguard',
-    name: 'Safeguard',
-    component: RoutesAlias.Home,
-    meta: {
-      title: 'menus.safeguard.title',
-      icon: '&#xe816;',
-      keepAlive: false
-    },
-    children: [
-      {
-        path: 'server',
-        name: 'SafeguardServer',
-        component: RoutesAlias.Server,
-        meta: {
-          title: 'menus.safeguard.server',
-          keepAlive: true
-        }
-      }
-    ]
-  },
   // 一级菜单
   {
     name: 'ChangeLog',
