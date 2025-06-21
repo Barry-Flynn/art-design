@@ -19,6 +19,7 @@ Thank you [@SuperManTT](https://github.com/Daymychen) for bringing Art Design Pr
 - Art Design（开源仓库）https://github.com/Barry-Flynn/art-design
 - Art Design Pro（开源仓库）https://github.com/Daymychen/art-design-pro
 - Online Demo（在线演示）https://www.lingchen.kim/art-design-pro
+- Develop Docs（开发文档）https://www.lingchen.kim/art-design-pro/docs
 
 ## 02 Demo Images 演示图
 

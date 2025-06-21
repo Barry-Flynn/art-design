@@ -362,10 +362,6 @@
     "plan": {
       "title": "版本计划",
       "log": "更新日志"
-    },
-    "help": {
-      "title": "帮助中心",
-      "document": "官方文档"
     }
   },
   "table": {

@@ -370,10 +370,6 @@
     "plan": {
       "title": "Version Plan",
       "log": "Change Log"
-    },
-    "help": {
-      "title": "Help Center",
-      "document": "Document"
     }
   },
   "table": {
