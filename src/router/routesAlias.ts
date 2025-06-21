@@ -29,10 +29,6 @@ export enum RoutesAlias {
   Role = '/system/role', // 角色
   UserCenter = '/system/user-center', // 用户中心
   Menu = '/system/menu', // 菜单
-  NestedMenu1 = '/system/nested/menu1', // 嵌套菜单1
-  NestedMenu21 = '/system/nested/menu2', // 嵌套菜单2-1
-  NestedMenu31 = '/system/nested/menu3', // 嵌套菜单3-1
-  NestedMenu321 = '/system/nested/menu3/menu3-2', // 嵌套菜单3-2-1
   ChangeLog = '/change/log' // 更新日志
 }
 
