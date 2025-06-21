@@ -14,13 +14,6 @@ export enum RoutesAlias {
   Dashboard = '/dashboard/console', // 工作台
   Analysis = '/dashboard/analysis', // 分析页
   Ecommerce = '/dashboard/ecommerce', // 电子商务
-  Chat = '/template/chat', // 聊天
-  Cards = '/template/cards', // 卡片
-  Banners = '/template/banners', // 横幅
-  Charts = '/template/charts', // 图表
-  Map = '/template/map', // 地图
-  Calendar = '/template/calendar', // 日历
-  Pricing = '/template/pricing', // 定价
   ArticleList = '/article/list', // 文章列表
   ArticleDetail = '/article/detail', // 文章详情
   Comment = '/article/comment', // 评论

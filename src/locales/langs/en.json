@@ -320,16 +320,6 @@
       "analysis": "Analysis",
       "ecommerce": "Ecommerce"
     },
-    "template": {
-      "title": "Template Center",
-      "chat": "Chat",
-      "cards": "Cards",
-      "banners": "Banners",
-      "charts": "Charts",
-      "map": "Map",
-      "calendar": "Calendar",
-      "pricing": "Pricing"
-    },
     "article": {
       "title": "Article Management",
       "articleList": "Article List",
