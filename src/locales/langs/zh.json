@@ -312,23 +312,6 @@
       "analysis": "分析页",
       "ecommerce": "电子商务"
     },
-    "widgets": {
-      "title": "组件中心",
-      "iconList": "Icon 图标",
-      "iconSelector": "图标选择器",
-      "imageCrop": "图像裁剪",
-      "excel": "Excel 导入导出",
-      "video": "视频播放器",
-      "countTo": "数字滚动",
-      "wangEditor": "富文本编辑器",
-      "watermark": "水印",
-      "contextMenu": "右键菜单",
-      "qrcode": "二维码",
-      "drag": "拖拽",
-      "textScroll": "文字滚动",
-      "fireworks": "礼花",
-      "elementUI": "组件总览"
-    },
     "template": {
       "title": "模板中心",
       "chat": "聊天",
