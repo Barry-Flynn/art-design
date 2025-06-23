@@ -36,15 +36,15 @@ Thank you [@SuperManTT](https://github.com/Daymychen) for bringing Art Design Pr
 
 ### 2.1 Light Theme 浅色主题
 
-![Light Theme](https://www.qiniu.lingchen.kim/art_design_pro_readme_cover1.png)
+![Light Theme](./public/art_design_readme_cover1.png)
 
-![Light Theme](https://www.qiniu.lingchen.kim/art_design_pro_readme_cover2.png)
+![Light Theme](./public/art_design_readme_cover2.png)
 
 ### 2.2 Dark Theme 深色主题
 
-![Dark Theme](https://www.qiniu.lingchen.kim/art_design_pro_readme_cover3.png)
+![Dark Theme](./public/art_design_readme_cover3.png)
 
-![Dark Theme](https://www.qiniu.lingchen.kim/art_design_pro_readme_cover4.png)
+![Dark Theme](./public/art_design_readme_cover4.png)
 
 ## 03 Why choose Art Design 为什么选择本项目
 
