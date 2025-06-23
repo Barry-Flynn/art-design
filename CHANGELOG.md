@@ -6,8 +6,9 @@ The mission of [Art Design](https://github.com/Barry-Flynn/art-design) is to fol
 
 | Art Design 更新时间 | Art Design 更新内容 | Commits | 更新时 Art Design Pro 版本号 |
 | --- | --- | --- | --- |
-| 2025-06-24 | 1. 恢复但注释掉 ArtHeaderBar 顶栏组件中的 ArtFastEnter 快速入口组件、聊天按钮和点击事件 |  | v2.4.2.5 |
-| 2025-06-23 | 1. 同步 Art Design Pro `v2.4.2.5` 版本更新 | [ea5e121](https://github.com/Barry-Flynn/art-design/commit/ea5e121ead96532c4f8fa5e49a3d2b6958aa9973) | v2.4.2.5 |
+| 2025-06-24 | 1. 同步 Art Design Pro `v2.4.2.6` 版本更新； |  | v2.4.2.6 |
+| 2025-06-24 | 1. 恢复但注释掉 ArtHeaderBar 顶栏组件中的 ArtFastEnter 快速入口组件、聊天按钮和点击事件； | [37d4f42](https://github.com/Barry-Flynn/art-design/commit/37d4f424c0ac4cb1ccd5f696b667116239457afa) | v2.4.2.5 |
+| 2025-06-23 | 1. 同步 Art Design Pro `v2.4.2.5` 版本更新； | [ea5e121](https://github.com/Barry-Flynn/art-design/commit/ea5e121ead96532c4f8fa5e49a3d2b6958aa9973) | v2.4.2.5 |
 | 2025-06-21 | 1. 删除 `src\views\result` 结果页面目录，并移除相关路由配置和翻译信息； | [90d21f6](https://github.com/Barry-Flynn/art-design/commit/90d21f6e5a4c7352a7cd291b04fd3d60b65daabf) | v2.4.2.4 |
 | 2025-06-21 | 1. 删除 `src\views\template` 模板中心目录，并移除相关路由配置和翻译信息； | [e4bf5bd](https://github.com/Barry-Flynn/art-design/commit/e4bf5bd44616be5ec8000792fb502ccdc6c2c2f4) | v2.4.2.4 |
 | 2025-06-21 | 1. 删除 `src\views\system\nested` 嵌套菜单目录，并移除相关路由配置和翻译信息； | [61df9b8](https://github.com/Barry-Flynn/art-design/commit/61df9b86edd0bf7b4b4e966e48bcb1b500301da9) | v2.4.2.4 |
