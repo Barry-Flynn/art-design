@@ -23,11 +23,11 @@
           </div>
         </div>
 
+        <!-- 快速入口 -->
+        <!-- <ArtFastEnter v-if="width >= 1200" /> -->
+
         <!-- 面包屑 -->
-        <ArtBreadcrumb
-          v-if="(showCrumbs && isLeftMenu) || (showCrumbs && isDualMenu)"
-          :style="{ paddingLeft: !showRefreshButton && !showMenuButton ? '10px' : '0' }"
-        />
+        <ArtBreadcrumb v-if="(showCrumbs && isLeftMenu) || (showCrumbs && isDualMenu)" />
 
         <!-- 顶部菜单 -->
         <ArtHorizontalMenu v-if="isTopMenu" :list="menuList" :width="menuTopWidth" />
@@ -68,6 +68,13 @@
             <span class="count notice-btn"></span>
           </div>
         </div>
+        <!-- 聊天 -->
+        <!-- <div class="btn-box chat-btn" @click="openChat">
+          <div class="btn chat-button">
+            <i class="iconfont-sys">&#xe89a;</i>
+            <span class="dot"></span>
+          </div>
+        </div> -->
         <!-- 语言 -->
         <div class="btn-box" v-if="showLanguage">
           <el-dropdown @command="changeLanguage" popper-class="langDropDownStyle">
@@ -347,6 +354,10 @@
   const visibleNotice = () => {
     showNotice.value = !showNotice.value
   }
+
+  // const openChat = () => {
+  //   mittBus.emit('openChat')
+  // }
 
   const lockScreen = () => {
     mittBus.emit('openLockScreen')
