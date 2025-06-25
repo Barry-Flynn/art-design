@@ -22,6 +22,3 @@ export enum RoutesAlias {
   Menu = '/system/menu', // 菜单
   ChangeLog = '/change/log' // 更新日志
 }
-
-// 主页路由
-export const HOME_PAGE = RoutesAlias.Dashboard
