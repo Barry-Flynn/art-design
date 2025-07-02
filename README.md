@@ -28,6 +28,7 @@ Thank you [@SuperManTT](https://github.com/Daymychen) for bringing Art Design Pr
 感谢 [@SuperManTT](https://github.com/Daymychen) 为开源社区带来 Art Design Pro 这个如此精美的高质量项目。`Art Design` 的使命是跟随 `Art Design Pro` 的更新，去除复杂的示例页面和非必要的功能和组件，以最精简的代码迎接前端新手或者想要从初始状态搭建后台管理项目的开发者。
 
 - Art Design（开源仓库）https://github.com/Barry-Flynn/art-design
+- Art Design（开源仓库）https://gitee.com/Barry-Flynn/art-design
 - Art Design Pro（开源仓库）https://github.com/Daymychen/art-design-pro
 - Online Demo（在线演示）https://www.lingchen.kim/art-design-pro
 - Develop Docs（开发文档）https://www.lingchen.kim/art-design-pro/docs
