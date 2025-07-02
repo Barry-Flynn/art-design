@@ -6,7 +6,7 @@ The mission of [Art Design](https://github.com/Barry-Flynn/art-design) is to fol
 
 | Art Design 更新时间 | Art Design 更新内容 | Commits | 更新时 Art Design Pro 版本号 |
 | --- | --- | --- | --- |
-| 2025-07-02 | 1. 同步 Art Design Pro `v2.4.2.9` 版本更新； |  | v2.4.2.9 |
+| 2025-07-02 | 1. 同步 Art Design Pro `v2.4.2.9` 版本更新； | [91da40f](https://github.com/Barry-Flynn/art-design/commit/91da40f0022ce17861069e131da2c50ae7c8e1de) | v2.4.2.9 |
 | 2025-06-25 | 1. 同步 Art Design Pro `v2.4.2.7` 版本更新； | [f3f9d41](https://github.com/Barry-Flynn/art-design/commit/f3f9d41f0a48aadf76e539feb9cbef9b45c9bb6f) | v2.4.2.7 |
 | 2025-06-24 | 1. 同步 Art Design Pro `v2.4.2.6` 版本更新； | [b991ef3](https://github.com/Barry-Flynn/art-design/commit/b991ef38e55b9b35f9718dcd036869373f61468c) | v2.4.2.6 |
 | 2025-06-24 | 1. 恢复但注释掉 ArtHeaderBar 顶栏组件中的 ArtFastEnter 快速入口组件、聊天按钮和点击事件； | [37d4f42](https://github.com/Barry-Flynn/art-design/commit/37d4f424c0ac4cb1ccd5f696b667116239457afa) | v2.4.2.5 |
