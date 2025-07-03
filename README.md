@@ -19,11 +19,11 @@ pnpm dev
 
 ## 01 About Art Design 关于本项目
 
-This project, [Art Design](https://github.com/Barry-Flynn/art-design), is an open-source backend management solution based on Vue3, TypeScript, Vite, and Element Plus. It is a lightweight version of [Art Design Pro](https://github.com/Daymychen/art-design-pro) and will be continuously maintained by [@Barry-Flynn](https://github.com/Daymychen). ([ChangeLog](./CHANGELOG.md))
+This project, [Art Design](https://github.com/Barry-Flynn/art-design), is an open-source backend management solution based on Vue3, TypeScript, Vite, and Element Plus. It is a lightweight version of [Art Design Pro](https://github.com/Daymychen/art-design-pro) and will be continuously maintained by [@Barry-Flynn](https://github.com/Barry-Flynn). ([ChangeLog](./CHANGELOG.md))
 
 Thank you [@SuperManTT](https://github.com/Daymychen) for bringing Art Design Pro, such a beautiful and high-quality project, to the open source community. The mission of `Art Design` is to follow the updates of `Art Design Pro`, remove complex example pages and unnecessary features and components, and welcome front-end beginners or developers who want to build backend management projects from the initial state with the simplest code.
 
-本项目 [Art Design](https://github.com/Barry-Flynn/art-design) 是一个基于 Vue3、TypeScript、Vite、Element-Plus 的开源后台管理解决方案，是 [Art Design Pro](https://github.com/Daymychen/art-design-pro) 的精简版（即轻量版、简化版），将由 [@百里飞洋](https://github.com/Daymychen) 持续维护。（[更新日志](./CHANGELOG.md)）
+本项目 [Art Design](https://github.com/Barry-Flynn/art-design) 是一个基于 Vue3、TypeScript、Vite、Element-Plus 的开源后台管理解决方案，是 [Art Design Pro](https://github.com/Daymychen/art-design-pro) 的精简版（即轻量版、简化版），将由 [@百里飞洋](https://github.com/Barry-Flynn) 持续维护。（[更新日志](./CHANGELOG.md)）
 
 感谢 [@SuperManTT](https://github.com/Daymychen) 为开源社区带来 Art Design Pro 这个如此精美的高质量项目。`Art Design` 的使命是跟随 `Art Design Pro` 的更新，去除复杂的示例页面和非必要的功能和组件，以最精简的代码迎接前端新手或者想要从初始状态搭建后台管理项目的开发者。
 
