@@ -17,12 +17,12 @@ const asciiArt = `
 console.log(asciiArt)
 
 console.info(
-  '%c Art-Design %c https://github.com/Barry-Flynn/art-design',
+  '%c Art-Design %c' + 'https://github.com/Barry-Flynn/art-design',
   'padding: 4px 6px; border-radius: 3px 0 0 3px; color: #fadfa3; background: #030307; font-weight: bold;',
   'padding: 4px 6px; border-radius: 0 3px 3px 0; color: #2500c9; background: #fadfa3; font-weight: bold;'
 )
 console.info(
-  '%c Art-Design-Pro %c ' + upgradeLogList.value[0].version,
+  '%c Art-Design-Pro %c' + upgradeLogList.value[0].version,
   'padding: 4px 6px; border-radius: 3px 0 0 3px; color: #ffffff; background: #005aff; font-weight: bold;',
   'padding: 4px 6px; border-radius: 0 3px 3px 0; color: #2500c9; background: #b9ddff; font-weight: bold;'
 )

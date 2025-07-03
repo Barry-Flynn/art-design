@@ -88,7 +88,9 @@ Supports modern mainstream browsers such as Chrome, Safari, Firefox, etc.
 
 支持 Chrome、Safari、Firefox 等现代主流浏览器。
 
-## 04 Install and Run 安装和运行
+## 04 How to Use 使用说明
+
+### 4.1 Install and Run 安装和运行
 
 ```bash
 # Clone repository by SSH
@@ -101,13 +103,67 @@ git clone git@github.com:Barry-Flynn/art-design.git
 pnpm install
 
 # If pnpm install fails, try using the following command to install dependencies
-pnpm install --ignore-scripts
+# pnpm install --ignore-scripts
 
 # Start local development environment
 pnpm dev
 
 # Build for production
-pnpm build
+# pnpm build
+```
+
+### 4.2 How to Keep Your Code Up-to-Date 代码如何保持最新
+
+After cloning this repository (origin), add your own Git repository as a remote source (up)
+
+克隆本仓库后（origin），添加自己的 git 仓库作为远程源（up）
+
+```sh
+# Check the status of the remote source
+# 查看远程仓库列表
+git remote -v
+
+# Add remote source, where 'up' is a custom name that can be changed to any name you like
+# 添加远程源，其中 up 为自定义名称，可自行更改成任何你喜欢的名字
+git remote add up <your-git-url>
+
+# Check the status of the remote source
+# 查看远程仓库列表
+git remote -v
+```
+
+Push code to your own repository (up)
+
+推送代码到自己的仓库（up）
+
+```sh
+git add .
+git commit -m "commit message"
+git push up main
+```
+
+Pull code from your own repository (up)
+
+从自己的仓库获取最新代码（up）
+
+```sh
+git pull up main
+```
+
+Pull code from the original repository (origin)
+
+从原始仓库获取最新代码（origin）
+
+```sh
+# Recommend regular execution to obtain the latest code
+# 建议定期执行，以获取最新代码
+git pull origin main
+
+# If there are code conflicts, resolve them first
+# 如果有代码冲突，请先解决
+git add .
+git commit -m "commit message"
+git push up main
 ```
 
 ## 05 Technical Support 技术支持
