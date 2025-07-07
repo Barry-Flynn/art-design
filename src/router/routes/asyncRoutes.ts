@@ -11,14 +11,14 @@ import { AppRouteRecord } from '@/types/router'
  * 菜单标题（title）:
  * 可以是 i18n 的 key，也可以是字符串，比如：'用户列表'
  *
- * RoutesAlias.Home 指向的是布局组件，后端返回的菜单数据中，component 字段需要指向 /index/index
+ * RoutesAlias.Layout 指向的是布局组件，后端返回的菜单数据中，component 字段需要指向 /index/index
  * 路由元数据（meta）：异步路由在 asyncRoutes 中配置，静态路由在 staticRoutes 中配置
  */
 export const asyncRoutes: AppRouteRecord[] = [
   {
     name: 'Dashboard',
     path: '/dashboard',
-    component: RoutesAlias.Home,
+    component: RoutesAlias.Layout,
     meta: {
       title: 'menus.dashboard.title',
       icon: '&#xe721;',
@@ -31,7 +31,7 @@ export const asyncRoutes: AppRouteRecord[] = [
         component: RoutesAlias.Dashboard,
         meta: {
           title: 'menus.dashboard.console',
-          keepAlive: true,
+          keepAlive: false,
           fixedTab: true
         }
       },
@@ -58,7 +58,7 @@ export const asyncRoutes: AppRouteRecord[] = [
   {
     path: '/system',
     name: 'System',
-    component: RoutesAlias.Home,
+    component: RoutesAlias.Layout,
     meta: {
       title: 'menus.system.title',
       icon: '&#xe7b9;',
@@ -125,7 +125,7 @@ export const asyncRoutes: AppRouteRecord[] = [
   {
     path: '/article',
     name: 'Article',
-    component: RoutesAlias.Home,
+    component: RoutesAlias.Layout,
     meta: {
       title: 'menus.article.title',
       icon: '&#xe7ae;',
@@ -192,7 +192,7 @@ export const asyncRoutes: AppRouteRecord[] = [
   {
     path: '/exception',
     name: 'Exception',
-    component: RoutesAlias.Home,
+    component: RoutesAlias.Layout,
     meta: {
       title: 'menus.exception.title',
       icon: '&#xe820;'
