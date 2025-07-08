@@ -212,31 +212,14 @@
     "outside": {
       "title": "Outside"
     },
-    "dashboard": {
-      "title": "Dashboard",
-      "console": "Console",
-      "analysis": "Analysis",
-      "ecommerce": "Ecommerce"
-    },
-    "article": {
-      "title": "Article Management",
-      "articleList": "Article List",
-      "articleDetail": "Article Detail",
-      "comment": "Comment",
-      "articlePublish": "Article Publish"
+    "welcome": {
+      "title": "Welcome"
     },
     "exception": {
       "title": "Exception",
       "forbidden": "403",
       "notFound": "404",
       "serverError": "500"
-    },
-    "system": {
-      "title": "System Settings",
-      "user": "User Manage",
-      "role": "Role Manage",
-      "userCenter": "User Center",
-      "menu": "Menu Manage"
     },
     "plan": {
       "title": "Version Plan",

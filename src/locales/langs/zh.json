@@ -204,31 +204,14 @@
     "outside": {
       "title": "内嵌页面"
     },
-    "dashboard": {
-      "title": "仪表盘",
-      "console": "工作台",
-      "analysis": "分析页",
-      "ecommerce": "电子商务"
-    },
-    "article": {
-      "title": "文章管理",
-      "articleList": "文章列表",
-      "articleDetail": "文章详情",
-      "comment": "留言管理",
-      "articlePublish": "文章发布"
+    "welcome": {
+      "title": "起始页"
     },
     "exception": {
       "title": "异常页面",
       "forbidden": "403",
       "notFound": "404",
       "serverError": "500"
-    },
-    "system": {
-      "title": "系统管理",
-      "user": "用户管理",
-      "role": "角色管理",
-      "userCenter": "个人中心",
-      "menu": "菜单管理"
     },
     "plan": {
       "title": "版本计划",

@@ -14,9 +14,9 @@
     <!-- 屏幕锁定 -->
     <ArtScreenLock />
     <!-- 聊天窗口 -->
-    <ArtChatWindow />
+    <!-- <ArtChatWindow /> -->
     <!-- 礼花效果 -->
-    <ArtFireworksEffect />
+    <!-- <ArtFireworksEffect /> -->
     <!-- 水印效果 -->
     <ArtWatermark />
   </ArtLayouts>
