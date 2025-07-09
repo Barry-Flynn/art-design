@@ -94,34 +94,6 @@
 
   const applicationList: ApplicationItem[] = [
     {
-      name: '工作台',
-      description: '系统概览与数据统计',
-      icon: '&#xe721;',
-      iconColor: '#377dff',
-      path: RoutesAlias.Dashboard
-    },
-    {
-      name: '分析页',
-      description: '数据分析与可视化',
-      icon: '&#xe812;',
-      iconColor: '#ff3b30',
-      path: RoutesAlias.Analysis
-    },
-    {
-      name: '礼花效果',
-      description: '动画特效展示',
-      icon: '&#xe7ed;',
-      iconColor: '#7A7FFF',
-      path: RoutesAlias.Fireworks
-    },
-    {
-      name: '聊天',
-      description: '即时通讯功能',
-      icon: '&#xe70a;',
-      iconColor: '#13DEB9',
-      path: RoutesAlias.Chat
-    },
-    {
       name: '官方文档',
       description: '使用指南与开发文档',
       icon: '&#xe788;',
@@ -154,10 +126,7 @@
   const quickLinkList: QuickLinkItem[] = [
     { name: '登录', path: RoutesAlias.Login },
     { name: '注册', path: RoutesAlias.Register },
-    { name: '忘记密码', path: RoutesAlias.ForgetPassword },
-    { name: '定价', path: RoutesAlias.Pricing },
-    { name: '个人中心', path: RoutesAlias.UserCenter },
-    { name: '留言管理', path: RoutesAlias.Comment }
+    { name: '忘记密码', path: RoutesAlias.ForgetPassword }
   ]
 
   const isExternalLink = (path: string): boolean => path.startsWith('http')

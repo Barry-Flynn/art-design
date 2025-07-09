@@ -6,7 +6,8 @@ The mission of [Art Design](https://github.com/Barry-Flynn/art-design) is to fol
 
 | Art Design 更新时间 | Art Design 更新内容 | Commits | 更新时 Art Design Pro 版本号 |
 | --- | --- | --- | --- |
-| 2025-07-08 | 1. 注释掉 `src\views\index\index.vue` 礼花效果；<br />2. 注释掉 `src\views\index\index.vue` 聊天窗口；<br />3. 删除 `src\views\article` 文章管理目录，并移除相关路由配置和翻译信息；<br />4. 删除 `src\views\dashboard` 仪表盘目录，并移除相关路由配置和翻译信息；<br />5. 删除 `src\views\system` 系统管理目录，并移除相关路由配置和翻译信息；<br />6. 添加 `src\views\welcome` 起始页； |  | v2.5.1 |
+| 2025-07-09 | 1. 删除 `src\components\core\layouts\art-fast-enter` 快速入口的部分跳转路由，解决打包报错的问题； |  | v2.5.1 |
+| 2025-07-08 | 1. 注释掉 `src\views\index\index.vue` 礼花效果；<br />2. 注释掉 `src\views\index\index.vue` 聊天窗口；<br />3. 删除 `src\views\article` 文章管理目录，并移除相关路由配置和翻译信息；<br />4. 删除 `src\views\dashboard` 仪表盘目录，并移除相关路由配置和翻译信息；<br />5. 删除 `src\views\system` 系统管理目录，并移除相关路由配置和翻译信息；<br />6. 添加 `src\views\welcome` 起始页； | [b195f64](https://github.com/Barry-Flynn/art-design/commit/b195f64a6d0a79d37adbba6f31f6547468baf880) | v2.5.1 |
 | 2025-07-08 | 1. 同步 Art Design Pro `v2.5.1` 版本更新； | [449c742](https://github.com/Barry-Flynn/art-design/commit/449c7424e4e708272537c780d986d97d31ed0ece) | v2.5.1 |
 | 2025-07-07 | 1. 同步 Art Design Pro `v2.5.0` 版本更新； | [3ceabdb](https://github.com/Barry-Flynn/art-design/commit/3ceabdbf5022dbef142881be0e74e3b5b5ca636f) | v2.5.0 |
 | 2025-07-02 | 1. 同步 Art Design Pro `v2.4.2.9` 版本更新； | [91da40f](https://github.com/Barry-Flynn/art-design/commit/91da40f0022ce17861069e131da2c50ae7c8e1de) | v2.4.2.9 |
