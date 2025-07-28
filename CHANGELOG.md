@@ -6,7 +6,8 @@ The mission of [Art Design](https://github.com/Barry-Flynn/art-design) is to fol
 
 | Art Design 更新时间 | Art Design 更新内容 | Commits | 更新时 Art Design Pro 版本号 |
 | --- | --- | --- | --- |
-| 2025-07-13 | 1. 同步 Art Design Pro `v2.5.2` 版本更新；<br />2. 修改 `src\config\headerBar.ts` 页头组件配置项；<br />3. 修改 `src\config\fastEnter.ts` 快速入口组件配置项； |  | v2.5.2 |
+| 2025-07-28 | 1. 同步 Art Design Pro `v2.5.4` 版本更新； |  | v2.5.4 |
+| 2025-07-13 | 1. 同步 Art Design Pro `v2.5.2` 版本更新；<br />2. 修改 `src\config\headerBar.ts` 页头组件配置项；<br />3. 修改 `src\config\fastEnter.ts` 快速入口组件配置项； | [05b9a8a](https://github.com/Barry-Flynn/art-design/commit/05b9a8a02bcb168ce4553e3002715e2cad560a02) | v2.5.2 |
 | 2025-07-09 | 1. 删除 `src\components\core\layouts\art-fast-enter` 快速入口的部分跳转路由，解决打包报错的问题； | [a56722b](https://github.com/Barry-Flynn/art-design/commit/a56722b421060f9768e60f22a567921b941f09b1) | v2.5.1 |
 | 2025-07-08 | 1. 注释掉 `src\views\index\index.vue` 礼花效果；<br />2. 注释掉 `src\views\index\index.vue` 聊天窗口；<br />3. 删除 `src\views\article` 文章管理目录，并移除相关路由配置和翻译信息；<br />4. 删除 `src\views\dashboard` 仪表盘目录，并移除相关路由配置和翻译信息；<br />5. 删除 `src\views\system` 系统管理目录，并移除相关路由配置和翻译信息；<br />6. 添加 `src\views\welcome` 起始页； | [b195f64](https://github.com/Barry-Flynn/art-design/commit/b195f64a6d0a79d37adbba6f31f6547468baf880) | v2.5.1 |
 | 2025-07-08 | 1. 同步 Art Design Pro `v2.5.1` 版本更新； | [449c742](https://github.com/Barry-Flynn/art-design/commit/449c7424e4e708272537c780d986d97d31ed0ece) | v2.5.1 |
